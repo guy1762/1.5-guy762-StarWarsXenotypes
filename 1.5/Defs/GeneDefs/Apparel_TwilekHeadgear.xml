@@ -61,7 +61,7 @@
 	  </ThingDef>
   
   
-  <ThingDef MayRequire="smartkar.athenaframework" ParentName="guy762_TwilekHeadbandBase">
+  <ThingDef MayRequire="EBSG.Framework" ParentName="guy762_TwilekHeadbandBase">
     <defName>guy762_TwilekHeadband_mission</defName>
     <label>twi'lek headband, cute</label>
     <description>Head dressings fit for a Twi'lek.\n\nNOTE: this does not scale correctly with narrow head types!</description>
@@ -125,15 +125,22 @@
 		<li>guy762TT_KotOREquipment_apparel</li>
 	</tradeTags-->
 	
-	<comps>
-	  <li Class="AthenaFramework.CompProperties_GeneLockedEquippable">
-		<requiredGenes>
+	<!-- <comps> -->
+	  <!-- <li Class="AthenaFramework.CompProperties_GeneLockedEquippable"> -->
+		<!-- <requiredGenes> -->
+			<!-- <li>guy762_Headbone_twilek</li> -->
+		<!-- </requiredGenes> -->
+		<!-- <cantReason>Incompatible head structure!</cantReason> -->
+		<!-- <dropWithoutRequirements>true</dropWithoutRequirements> -->
+	  <!-- </li> -->
+	<!-- </comps> -->
+	<modExtensions>
+	  <li Class="EBSGFramework.EquipRestrictExtension">
+		<requireOneOfGenesToEquip>
 			<li>guy762_Headbone_twilek</li>
-		</requiredGenes>
-		<cantReason>Incompatible head structure!</cantReason>
-		<dropWithoutRequirements>true</dropWithoutRequirements>
+		</requireOneOfGenesToEquip>
 	  </li>
-	</comps>
+	</modExtensions>
 	
 	<colorGenerator Class="ColorGenerator_Options" Inherit="False">
 		<options>
@@ -191,7 +198,7 @@
   
   
   
-  <ThingDef MayRequire="smartkar.athenaframework" ParentName="guy762_TwilekHeadbandBase">
+  <ThingDef MayRequire="EBSG.Framework" ParentName="guy762_TwilekHeadbandBase">
     <defName>guy762_TwilekHeadband_yuthura</defName>
     <label>twi'lek headband, ornate</label>
     <description>Head dressings fit for a Twi'lek.\n\nNOTE: this does not scale correctly with narrow head types!</description>
@@ -258,15 +265,22 @@
 		<li>guy762TT_KotOREquipment_apparel</li>
 	</tradeTags-->
 	
-	<comps>
-	  <li Class="AthenaFramework.CompProperties_GeneLockedEquippable">
-		<requiredGenes>
+	<!-- <comps> -->
+	  <!-- <li Class="AthenaFramework.CompProperties_GeneLockedEquippable"> -->
+		<!-- <requiredGenes> -->
+			<!-- <li>guy762_Headbone_twilek</li> -->
+		<!-- </requiredGenes> -->
+		<!-- <cantReason>Incompatible head structure!</cantReason> -->
+		<!-- <dropWithoutRequirements>true</dropWithoutRequirements> -->
+	  <!-- </li> -->
+	<!-- </comps> -->
+	<modExtensions>
+	  <li Class="EBSGFramework.EquipRestrictExtension">
+		<requireOneOfGenesToEquip>
 			<li>guy762_Headbone_twilek</li>
-		</requiredGenes>
-		<cantReason>Incompatible head structure!</cantReason>
-		<dropWithoutRequirements>true</dropWithoutRequirements>
+		</requireOneOfGenesToEquip>
 	  </li>
-	</comps>
+	</modExtensions>
 	
 	<colorGenerator Class="ColorGenerator_Options" Inherit="False">
 		<options>
