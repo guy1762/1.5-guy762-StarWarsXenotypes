@@ -194,8 +194,8 @@
     <descriptionShort>A mysterious species hailing from the Unknown Regions, the Chiss are known for their calm, cold demeanor and piercing red eyes. It is believed they originate from an ice world, as they have remarkable resistance to colder temperatures as well as the ability to see in the infrared spectrum. Curiously, they are less sensitive to the Force than most.</descriptionShort>
     <inheritable>true</inheritable>
 	<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon4</iconPath>
-	<nameMaker>KoTOR_NamerChiss</nameMaker>
-	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+	<!-- <nameMaker>KoTOR_NamerChiss</nameMaker> -->
+	<!-- <chanceToUseNameMaker>1</chanceToUseNameMaker> -->
     <genes>
 		<li>PsychicAbility_Dull</li>
 		<li>MinTemp_LargeDecrease</li>
