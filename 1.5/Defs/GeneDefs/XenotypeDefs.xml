@@ -929,8 +929,8 @@
     <description>Mirialans are a green or yellow-skinned species hailing from the Outer Rim world Mirial. Holding a strong connection to the natural world, Mirialans are more slightly more sensitive to the force than other species.</description>
     <descriptionShort>Mirialans are a green or yellow-skinned species hailing from the Outer Rim world Mirial. Holding a strong connection to the natural world, Mirialans are more slightly more sensitive to the force than other species.</descriptionShort>
     <inheritable>true</inheritable>
-	<nameMaker>KoTOR_NamerMirialan</nameMaker>
-	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+	<!-- <nameMaker>KoTOR_NamerMirialan</nameMaker> -->
+	<!-- <chanceToUseNameMaker>1</chanceToUseNameMaker> -->
 	<iconPath>UI/Icons/Xenotypes/Baseliner</iconPath>
 	<combatPowerFactor>1.3</combatPowerFactor>
     <genes>
