@@ -94,9 +94,9 @@
 		  </layers>
 		</apparel>
 		
-		<!--tradeTags>
-		  <li>guy762TT_KotOREquipment_apparel</li>
-		</tradeTags-->
+		<tradeTags>
+			<li>guy762TT_AllItemsSellable</li>
+		</tradeTags>
 		
 		<comps>
 		  <!-- <li Class="AthenaFramework.CompProperties_GeneLockedEquippable"> -->

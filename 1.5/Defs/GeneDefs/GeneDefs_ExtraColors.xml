@@ -191,6 +191,14 @@
 	  </GeneDef>
 	  
 	  <GeneDef ParentName="GeneHairColorBase">
+		<defName>guy762_Hair_BrightOrange</defName>
+		<label>bright orange hair</label>
+		<hairColorOverride>(200,85,25)</hairColorOverride>
+		<selectionWeight>0.05</selectionWeight>
+		<displayOrderInCategory>188</displayOrderInCategory>
+	  </GeneDef>
+	  
+	  <GeneDef ParentName="GeneHairColorBase">
 		<defName>guy762_Hair_SlateRed</defName>
 		<label>slate-red hair</label>
 		<hairColorOverride>(125,95,100)</hairColorOverride>

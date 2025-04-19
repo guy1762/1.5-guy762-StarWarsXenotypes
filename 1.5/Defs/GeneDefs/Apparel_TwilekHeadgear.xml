@@ -28,6 +28,9 @@
 		<tickerType>Never</tickerType>
 		<burnableByRecipe>true</burnableByRecipe>
 		<tradeability>All</tradeability>
+		<tradeTags>
+			<li>guy762TT_AllItemsSellable</li>
+		</tradeTags>
 		<smeltable>false</smeltable>
 		<comps>
 			<li Class="CompProperties_Forbiddable" />
