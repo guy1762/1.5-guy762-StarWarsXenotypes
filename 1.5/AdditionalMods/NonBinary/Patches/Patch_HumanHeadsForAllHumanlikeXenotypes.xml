@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/XenotypeDef[defName="Baseliner"]</xpath>
+	  <value>
+		<inheritable>true</inheritable>
+		<genes>
+		  <li>guy762_Head_human</li>
+		</genes>
+	  </value>
+	</Operation>
+	
+	
+	
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/XenotypeDef[@Name="guy762_xenotype_humanheadbase"]</xpath>
+	  <value>
+		<genes>
+		  <li>guy762_Head_human</li>
+		</genes>
+	  </value>
+	</Operation>
+
+	
+	
+
+</Patch>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
+	<XenotypeDef Name="guy762_xenotype_humanheadbase" Abstract="True">
 	
+	</XenotypeDef>
   
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_aqualish</defName>
 		<label>Aqualish</label>
 		<description>e</description>
@@ -34,7 +36,7 @@
 		</genes>
 	</XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_arkanian</defName>
     <label>Arkanian</label>
     <description>Themselves masters of genetic engineering, Arkanians boast frequently of their own genetic superiority. Arkanians have remarkable intellectual abilities, and as such consider themselves innately superior to others, leading to a common stereotype of arrogance. However, they are less keen on more physical forms of work.</description>
@@ -187,7 +189,7 @@
 	</genes>
   </XenotypeDef>
 
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_chiss</defName>
     <label>Chiss</label>
     <description>A mysterious species hailing from the Unknown Regions, the Chiss are known for their calm, cold demeanor and piercing red eyes. It is believed they originate from an ice world, as they have remarkable resistance to colder temperatures as well as the ability to see in the infrared spectrum. However, they fair worse in higher-temperature environments, and have a higher sensitivity to UV light. Curiously, they are less sensitive to the Force than most.</description>
@@ -252,7 +254,7 @@
 	</genes>
   </XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_devaronian</defName>
     <label>Devaronian</label>
     <description>Hailing from the mountainous jungle world Devaron, Devaronians are an aggressive species characterized by two large horns protruding from their foreheads. They have remarkable immune systems and are highly resistant to high temperatures, however, they are carnivorous, and as such have no affinity for agriculture whatsoever.</description>
@@ -301,7 +303,7 @@
 		</genes>
 	</XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_echani</defName>
     <label>Echani</label>
     <description>The Echani had similar anatomy to that of humans, but were physically distinct due to their light skin, white hair and silver eyes. It was believed that the Echani were a result of Arkanian experimentation with the Human genome, a theory which could explain the resemblance among these members of the species.</description>
@@ -361,7 +363,7 @@
 		</genes>
 	</XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_falleen</defName>
     <label>Falleen</label>
     <description>The Falleen were a repto-mammalian sentient species who had a distinctive alien appearance. They were distinguished by their mottled greenskin, ridged skulls, and their long, black hair which they typically wore in ponytails. Falleen exuded powerful pheromones which they used to attract mates.</description>
@@ -387,7 +389,7 @@
 	</genes>
   </XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_feeorin</defName>
     <label>Feeorin</label>
     <description>The average Feeorin had thick tendrils hanging from the backs of their heads and much smaller and thinner ones hanging from their face.They could live up to 400 years and due to a unique metabolism grew stronger with age rather than weaker.</description>
@@ -609,7 +611,7 @@
 		</genes>
 	</XenotypeDef>
 	
-	<XenotypeDef>
+	<XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_iridonian</defName>
 		<label>Iridonian</label>
 		<description>Iridonians, also known as Iridonian Zabraks, were a race of the sentient Zabrak species, near-humans that had evolved to be tough due to the nature of their homeworld Iridonia. They are notably hardier than the more common Zabrak.</description>
@@ -879,7 +881,7 @@
 	</genes>
   </XenotypeDef-->
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_mimbanese</defName>
 		<label>Mimbanese</label>
 		<description>e</description>
@@ -905,7 +907,7 @@
 		</genes>
 	</XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_miraluka</defName>
     <label>Miraluka</label>
     <description>The Miraluka were a Near-Humanspecies that differed from Humans in that they lacked eyes, only retaining vestigial eye sockets, and perceived the environment around them through Force sight instead of regular vision.</description>
@@ -923,7 +925,7 @@
 	</genes> <!--BLINDSIGHT ABILITY IS ADDED IN BY A PATCH THAT TARGETS SPECIFIC LINES HERE (ROYALTY DLC FOLDER)-->
   </XenotypeDef>
 
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_mirialan</defName>
     <label>Mirialan</label>
     <description>Mirialans are a green or yellow-skinned species hailing from the Outer Rim world Mirial. Holding a strong connection to the natural world, Mirialans are more slightly more sensitive to the force than other species.</description>
@@ -981,7 +983,7 @@
 		</genes>
 	</XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_nagai</defName>
     <label>Nagai</label>
     <description>Tall and agile, the Nagai originate from a dwarf galaxy in Wild Space. They are an aggressive, honor-bound people.</description>
@@ -1005,7 +1007,7 @@
 	</genes>
   </XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_nautolan</defName>
 		<label>Nautolan</label>
 		<description>Nautolans were amphibious, capable of breathing both air and water. They were known to be capable of surviving in extreme environments. Their skin could be green, blue, gray, purple, orange, or yellow, with red or green blood. One of their most notable features were their large, dark eyes, which were a product of evolution; through these eyes, they could spot details in lightless oceans.</description>
@@ -1122,7 +1124,7 @@
 		</genes>
 	</XenotypeDef>
 	
-	<XenotypeDef>
+	<XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_pantoran</defName>
 		<label>Pantoran</label>
 		<description>e</description>
@@ -1354,7 +1356,7 @@
 		</genes>
 	  </XenotypeDef>
 	  
-	  <XenotypeDef>
+	  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_togruta</defName>
 		<label>Togruta</label>
 		<description>Togruta were a species of sentient humanoids whose skin spanned a vast array of colors, including, but not limited to, orange, red, white, and yellow. Togrutas were known to have multiple stomachs, however, their most notable features were the large organic head formations two large cone-like horns called montrals atop their skull, and three lekku, also known as headtails, that sprouted downward.</description>
@@ -1457,7 +1459,7 @@
 			</genes>
 	  </XenotypeDef>
   
-  <XenotypeDef>
+  <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
     <defName>guy762_xenotype_twilek</defName>
     <label>Twi'lek</label>
     <description>Twi'leks were a species of tall humanoids whose skin spanned a vast array of colors, their most distinctive feature was the pair of prehensile appendages that sprouted from the crown or base of their skulls,[18] known as lekku, or head-tails.</description>
@@ -1600,7 +1602,7 @@
 		</genes>
 	</XenotypeDef>
 	
-	<XenotypeDef>
+	<XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_yoder</defName>
 		<label>Yoder</label>
 		<description>Members of the species were small in size, roughly comparable to that of a human child, with green skin, large eyes, and long pointed ears. Their three-fingered hands ended in claws.</description>
@@ -1626,7 +1628,7 @@
 		</genes>
 	  </XenotypeDef>
 	
-	<XenotypeDef>
+	<XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_zabrak</defName>
 		<label>Zabrak</label>
 		<description>Zabraks were a species of near-humans that had evolved to be tough due to the nature of their homeworld Iridonia. Zabraks possessed a ring of small, vestigial horns that ran from high on their brow round to the back of their head.</description>
@@ -1644,7 +1646,7 @@
 		</genes>
 	</XenotypeDef>
 	
-	<XenotypeDef>
+	<XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_zabrakDathomiri</defName>
 		<label>Zabrak (Dathomiri)</label>
 		<description>.</description>
@@ -1674,7 +1676,7 @@
 		</genes>
 	</XenotypeDef>
 	
-	<XenotypeDef>
+	<XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_zeltron</defName>
 		<label>Zeltron</label>
 		<description>Zeltrons produced potent pheromones, which enhanced their attractiveness and likeability. They also possessed limited telepathic abilities, used to project emotions onto others, as well as allowing them to read and even feel the emotions of others.</description>
