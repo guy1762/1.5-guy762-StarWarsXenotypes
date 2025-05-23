@@ -397,8 +397,8 @@
     <inheritable>true</inheritable>
 	<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon1</iconPath>
     <combatPowerFactor>1.4</combatPowerFactor>
-	<nameMaker>KoTOR_NamerFeeorin</nameMaker>
-	<chanceToUseNameMaker>1</chanceToUseNameMaker>
+	<!-- <nameMaker>KoTOR_NamerFeeorin</nameMaker> -->
+	<!-- <chanceToUseNameMaker>1</chanceToUseNameMaker> -->
     <genes>
 		<li>DiseaseFree</li>
 		<li>guy762_lifespan_quad</li>
