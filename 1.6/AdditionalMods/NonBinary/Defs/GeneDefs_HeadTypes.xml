@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	  
+	  
+	
+	    
+	<GeneDef ParentName="GeneJawBase">
+		<defName>guy762_Head_human</defName>
+		<label>human head</label>
+		<description>Carriers of this gene have regular, humanlike heads.\n\nDEV'S NOTE: this is a 'debug' gene added to baseliners + all Star Wars xenotypes with normal heads that guarantees they will spawn with the normal head types. This is done to prevent non-binary pawns from generating with droid head types.</description>
+		<displayOrderInCategory>1</displayOrderInCategory>
+		<displayCategory>guy762_SWparts_Category</displayCategory>
+		<iconPath>UI/Icons/Genes/Gene_JawBaseline</iconPath>
+		<forcedHeadTypes>
+		  <li>Male_AverageNormal</li>
+		  <li>Male_AveragePointy</li>
+		  <li>Male_AverageWide</li>
+		  <li>Male_NarrowNormal</li>
+		  <li>Male_NarrowWide</li>
+		  <li>Male_NarrowPointy</li>
+		  
+		  <li>Female_AverageNormal</li>
+		  <li>Female_AveragePointy</li>
+		  <li>Female_AverageWide</li>
+		  <li>Female_NarrowNormal</li>
+		  <li>Female_NarrowWide</li>
+		  <li>Female_NarrowPointy</li>
+		</forcedHeadTypes>
+	</GeneDef>
+	  
+	
+	  
+</Defs>
