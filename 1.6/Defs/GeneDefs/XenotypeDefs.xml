@@ -9,8 +9,8 @@
   <XenotypeDef ParentName="guy762_xenotype_humanheadbase">
 		<defName>guy762_xenotype_aqualish</defName>
 		<label>Aqualish</label>
-		<description>e</description>
-		<descriptionShort>e</descriptionShort>
+		<description>Hailing from the planet Ando, the Aqualish are strange humanoids with spider-like facial features. Each Aqualish has four eyes, which see perfectly in the dark, two large facial tusks, and rather poorly structured hands that prevent them from efficiently manipulating various objects and workbenches.</description>
+		<descriptionShort>Hailing from the planet Ando, the Aqualish are strange humanoids with spider-like facial features. Each Aqualish has four eyes, which see perfectly in the dark, two large facial tusks, and rather poorly structured hands that prevent them from efficiently manipulating various objects and workbenches.</descriptionShort>
 		<inheritable>true</inheritable>
 		<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon5</iconPath>
 		<!--nameMaker>KoTOR_NamerAqualish</nameMaker>
@@ -69,8 +69,8 @@
   <XenotypeDef>
     <defName>guy762_xenotype_bith</defName>
     <label>Bith</label>
-    <description>placeholder</description>
-    <descriptionShort>placeholder</descriptionShort>
+    <description>The Bith are a race of short humanoids with large eyes and heads, often seen playing musical instruments in cantinas or working at research tables in laboratories. Their brains do not require sleep, but they must meditate for at least a few hours to avoid accumulating fatigue. Despite these advantages, the Bith have one minor flaw, which some might consider a benefit - their heightened senses, which can result in their heads exploding from a sufficiently powerful sonic blast.</description>
+    <descriptionShort>The Bith are a race of short humanoids with large eyes and heads, often seen playing musical instruments in cantinas or working at research tables in laboratories. Their brains do not require sleep, but they must meditate for at least a few hours to avoid accumulating fatigue. Despite these advantages, the Bith have one minor flaw, which some might consider a benefit - their heightened senses, which can result in their heads exploding from a sufficiently powerful sonic blast.</descriptionShort>
     <iconPath>UI/Icons/Xenotypes/Genie</iconPath>
 	<nameMaker>KoTOR_NamerBith</nameMaker>
 	<chanceToUseNameMaker>1</chanceToUseNameMaker>
@@ -225,8 +225,8 @@
   <XenotypeDef>
     <defName>guy762_xenotype_defel</defName>
     <label>Defel</label>
-    <description>.</description>
-    <descriptionShort>.</descriptionShort>
+    <description>The Defel are furry humanoids, standing no taller than 1.3 meters, originating from the planet Af'El. Their appearance resembles monsters from various galactic horror stories, which works to their advantage, given their predatory nature. Unfortunately, they have poor vision in the normal spectrum but see well in ultraviolet. Their fur is truly unique due to its properties, specifically, it allows them to blend into shadows by absorbing light, making them excellent spies and assassins.</description>
+    <descriptionShort>The Defel are furry humanoids, standing no taller than 1.3 meters, originating from the planet Af'El. Their appearance resembles monsters from various galactic horror stories, which works to their advantage, given their predatory nature. Unfortunately, they have poor vision in the normal spectrum but see well in ultraviolet. Their fur is truly unique due to its properties, specifically, it allows them to blend into shadows by absorbing light, making them excellent spies and assassins.</descriptionShort>
     <inheritable>true</inheritable>
 	<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon10</iconPath>
 	<!--nameMaker>KoTOR_NamerDevaronian</nameMaker>
@@ -285,8 +285,8 @@
   <XenotypeDef>
 		<defName>guy762_xenotype_duros</defName>
 		<label>Duros</label>
-		<description>The Duros were a humanoid species[10] native to Duro, a planet located in the Duro sector of the galaxy's Core Worlds.They had smooth blue-green skin, red eyes, lipless mouths, and long thin noseless faces with green blood.</description>
-		<descriptionShort>The Duros were a humanoid species[10] native to Duro, a planet located in the Duro sector of the galaxy's Core Worlds.They had smooth blue-green skin, red eyes, lipless mouths, and long thin noseless faces with green blood.</descriptionShort>
+		<description>The Duros were a humanoid species native to Duro, a planet located in the Duro sector of the galaxy's Core Worlds.They had smooth blue-green skin, red eyes, lipless mouths, and long thin noseless faces with green blood.</description>
+		<descriptionShort>The Duros were a humanoid species native to Duro, a planet located in the Duro sector of the galaxy's Core Worlds.They had smooth blue-green skin, red eyes, lipless mouths, and long thin noseless faces with green blood.</descriptionShort>
 		<inheritable>true</inheritable>
 		<nameMaker>KoTOR_NamerDuros</nameMaker>
 		<chanceToUseNameMaker>1</chanceToUseNameMaker>
@@ -461,8 +461,8 @@
 	<XenotypeDef>
 		<defName>guy762_xenotype_gand</defName>
 		<label>Gand</label>
-		<description>.</description>
-		<descriptionShort>.</descriptionShort>
+		<description>Gands are insectoid humanoids from Gand, who breathe ammonia and refer to themselves in the third person. Their resilience, regeneration and combat skills make them skilled mercenaries, but they rely on respirator masks when off-world.</description>
+		<descriptionShort>Gands are insectoid humanoids from Gand, who breathe ammonia and refer to themselves in the third person. Their resilience, regeneration and combat skills make them skilled mercenaries, but they rely on respirator masks when off-world.</descriptionShort>
 		<inheritable>true</inheritable>
 		<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon8</iconPath>
 		<combatPowerFactor>1.1</combatPowerFactor>
@@ -499,8 +499,8 @@
 	<XenotypeDef>
 		<defName>guy762_xenotype_geonosian_drone</defName>
 		<label>Geonosian (Drone)</label>
-		<description>.</description>
-		<descriptionShort>.</descriptionShort>
+		<description>Drones are faceless soldiers bred for war and absolute obedience. Devoid of individuality, they act as a single swarm, incapable of independent decisions. Their main advantage lies in numbers, but their key weakness is their dependence on more intelligent species.</description>
+		<descriptionShort>Drones are faceless soldiers bred for war and absolute obedience. Devoid of individuality, they act as a single swarm, incapable of independent decisions. Their main advantage lies in numbers, but their key weakness is their dependence on more intelligent species.</descriptionShort>
 		<inheritable>true</inheritable>
 		<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon6</iconPath>
 		<combatPowerFactor>0.8</combatPowerFactor>
@@ -536,8 +536,8 @@
 	<XenotypeDef>
 		<defName>guy762_xenotype_gungan</defName>
 		<label>Gungan</label>
-		<description>.</description>
-		<descriptionShort>.</descriptionShort>
+		<description>Intelligent amphibious species native to the distant planet Naboo. Like all other species far removed from humans, Gungans have a unique body structure, particularly their heads, which vaguely resemble elongated frog-like features with huge, drooping ears. Though their lifespans are relatively short, typically not exceeding 60 years, though their skin is quite sensitive to sunlight and heat, and though they may appear ridiculous at times, behind these flaws lie incredible agility, resilience, and powerful legs, a single leap from which can turn the tide of battle.</description>
+		<descriptionShort>Intelligent amphibious species native to the distant planet Naboo. Like all other species far removed from humans, Gungans have a unique body structure, particularly their heads, which vaguely resemble elongated frog-like features with huge, drooping ears. Though their lifespans are relatively short, typically not exceeding 60 years, though their skin is quite sensitive to sunlight and heat, and though they may appear ridiculous at times, behind these flaws lie incredible agility, resilience, and powerful legs, a single leap from which can turn the tide of battle.</descriptionShort>
 		<inheritable>true</inheritable>
 		<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon1</iconPath>
 		<combatPowerFactor>1.4</combatPowerFactor>
@@ -568,8 +568,8 @@
 	<XenotypeDef>
 		<defName>guy762_xenotype_hutt</defName>
 		<label>Hutt</label>
-		<description>e</description>
-		<descriptionShort>e</descriptionShort>
+		<description>Hutts are invertebrate hermaphrodites reaching up to 5 meters in length, with thick layers of fat, regenerative skin, and extreme resistance to poisons and diseases. Thanks to their slow metabolism, they can live up to 1,000 years. While they may look repulsive and, without specialized equipment, are hardly suited for combat, Hutts are, first and foremost, brains. It is their genetic predispositions and the cultural emphasis on ambition and wealth accumulation that have turned the word "Hutt" into a synonym for "crime lord".</description>
+		<descriptionShort>Hutts are invertebrate hermaphrodites reaching up to 5 meters in length, with thick layers of fat, regenerative skin, and extreme resistance to poisons and diseases. Thanks to their slow metabolism, they can live up to 1,000 years. While they may look repulsive and, without specialized equipment, are hardly suited for combat, Hutts are, first and foremost, brains. It is their genetic predispositions and the cultural emphasis on ambition and wealth accumulation that have turned the word "Hutt" into a synonym for "crime lord".</descriptionShort>
 		<inheritable>true</inheritable>
 		<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon1</iconPath>
 		<combatPowerFactor>1.5</combatPowerFactor>
@@ -639,8 +639,8 @@
 	<XenotypeDef>
 		<defName>guy762_xenotype_ithorian</defName>
 		<label>Ithorian</label>
-		<description>.</description>
-		<descriptionShort>.</descriptionShort>
+		<description>Ithorians are a bipedal, herbivorous species from the planet Ithor, bearing little resemblance to humans. Their most distinctive external features are their T-shaped heads on flexible necks and powerful voices, enabled by their four throats. Due to their genetic traits and deep connection to their homeworld, Ithorians often awaken a potential for the Force.</description>
+		<descriptionShort>Ithorians are a bipedal, herbivorous species from the planet Ithor, bearing little resemblance to humans. Their most distinctive external features are their T-shaped heads on flexible necks and powerful voices, enabled by their four throats. Due to their genetic traits and deep connection to their homeworld, Ithorians often awaken a potential for the Force.</descriptionShort>
 		<inheritable>true</inheritable>
 		<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon9</iconPath>
 		<nameMaker>KoTOR_NamerSullustan</nameMaker>
@@ -668,8 +668,8 @@
   <XenotypeDef>
     <defName>guy762_xenotype_jawa</defName>
     <label>Jawa</label>
-    <description>utini</description>
-    <descriptionShort>utini</descriptionShort>
+    <description>One of the two mysterious tribes of the desert planet Tatooine, Jawas are short creatures, sometimes not even a meter tall, covered in fur, with glowing eyes. Naturally adaptable, Jawas tolerate heat and toxic fumes exceptionally well and have an innate knack for machinery, particularly droids. Due to their small stature and fragility, they make terrible melee fighters, but they are far more comfortable in ranged combat.</description>
+    <descriptionShort>One of the two mysterious tribes of the desert planet Tatooine, Jawas are short creatures, sometimes not even a meter tall, covered in fur, with glowing eyes. Naturally adaptable, Jawas tolerate heat and toxic fumes exceptionally well and have an innate knack for machinery, particularly droids. Due to their small stature and fragility, they make terrible melee fighters, but they are far more comfortable in ranged combat.</descriptionShort>
     <inheritable>true</inheritable>
 	<iconPath>UI/Icons/Xenotypes/Yttakin</iconPath>
 	<combatPowerFactor>0.3</combatPowerFactor>
@@ -700,8 +700,8 @@
   <XenotypeDef>
     <defName>guy762_xenotype_kaleesh</defName>
     <label>Kaleesh</label>
-    <description>.</description>
-    <descriptionShort>.</descriptionShort>
+    <description>Kaleesh are a reptilian-derived intelligent species forced to live and evolve for millennia on the resource-scarce planet Kalee. Across the galaxy, Kaleesh are known as somewhat aggressive yet skilled warriors in both melee and ranged combat. Due to deeply ingrained religious customs, they tend to wear skull masks, emphasizing their aggressive nature.</description>
+    <descriptionShort>Kaleesh are a reptilian-derived intelligent species forced to live and evolve for millennia on the resource-scarce planet Kalee. Across the galaxy, Kaleesh are known as somewhat aggressive yet skilled warriors in both melee and ranged combat. Due to deeply ingrained religious customs, they tend to wear skull masks, emphasizing their aggressive nature.</descriptionShort>
     <inheritable>true</inheritable>
 	<iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon5</iconPath>
 	<combatPowerFactor>1.4</combatPowerFactor>
