@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+
+	
+	<Operation Class="PatchOperationSequence">
+	  <operations>
+		<li Class="PatchOperationReplace">
+			<xpath>Defs/GeneDef[defName="Ears_Pointed" or defName="Ears_Cat" or defName="Ears_Floppy" or defName="Ears_Pig"]/renderNodeProperties/li[1]/drawData/defaultData/layer</xpath>
+			<value>
+				<layer>68</layer>
+			</value>
+		</li>
+		<li Class="PatchOperationReplace">
+			<xpath>Defs/GeneDef[defName="guy762_Ears_big" or defName="guy762_Ears_BigCat" or defName="guy762_Ears_round" or defName="guy762_Ears_weirdflap"]/renderNodeProperties/li[1]/drawData/defaultData/layer</xpath>
+			<value>
+				<layer>68</layer>
+			</value>
+		</li>
+	  </operations>
+	</Operation>
+    
+
+</Patch>
