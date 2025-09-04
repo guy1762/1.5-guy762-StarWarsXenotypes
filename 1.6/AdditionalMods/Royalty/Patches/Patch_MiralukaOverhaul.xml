@@ -10,13 +10,13 @@
 			</value>
 		</li-->
 		<li Class="PatchOperationReplace">
-			<xpath>Defs/XenotypeDef[defName="guy762_xenotype_miraluka"]/genes/li[4]</xpath>
+			<xpath>Defs/XenotypeDef[defName="guy762_xenotype_miraluka"]/genes/li[3]</xpath>
 			<value>
 				<li>guy762_AbilityGene_forcesight</li>
 			</value>
 		</li>
 		<li Class="PatchOperationRemove">
-			<xpath>Defs/XenotypeDef[defName="guy762_xenotype_miraluka"]/genes/li[5]</xpath>
+			<xpath>Defs/XenotypeDef[defName="guy762_xenotype_miraluka"]/genes/li[4]</xpath>
 		</li>
 	  </operations>
 	</Operation>

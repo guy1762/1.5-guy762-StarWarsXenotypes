@@ -917,11 +917,11 @@
 	<chanceToUseNameMaker>1</chanceToUseNameMaker>
 	<iconPath>UI/Icons/Xenotypes/Other</iconPath>
     <genes> <!--BLINDSIGHT ABILITY IS ADDED IN BY A PATCH THAT TARGETS SPECIFIC LINES HERE (ROYALTY DLC FOLDER)-->
-		<li MayRequire="Ludeon.RimWorld.Royalty">guy762_statgene_force</li>
 		<li>PsychicAbility_Enhanced</li>
 		<li>Aggression_DeadCalm</li>
 		<li>Turn_Gene_Blindness</li>
 		<li>Eyes_Gray</li>
+		<li MayRequireAnyOf="Ludeon.RimWorld.Royalty,lee.theforce.standalone">guy762_statgene_force</li>
 	</genes> <!--BLINDSIGHT ABILITY IS ADDED IN BY A PATCH THAT TARGETS SPECIFIC LINES HERE (ROYALTY DLC FOLDER)-->
   </XenotypeDef>
 
@@ -1264,7 +1264,7 @@
 			<li>AptitudeTerrible_Cooking</li>
 			<li>AptitudeTerrible_Plants</li>
 			<li>AptitudeTerrible_Animals</li>
-			<li MayRequire="Ludeon.RimWorld.Royalty">guy762_statgene_force</li>
+			<li MayRequireAnyOf="Ludeon.RimWorld.Royalty,lee.theforce.standalone">guy762_statgene_force</li>
 		</genes>
 	  </XenotypeDef>
 	
@@ -1623,7 +1623,7 @@
 			<li>Skin_Green</li>
 			<li>guy762_Skin_DarkGreen</li>
 			<li>guy762_BodySizeGene_smallest</li>
-			<li MayRequire="Ludeon.RimWorld.Royalty">guy762_statgene_force</li>
+			<li MayRequireAnyOf="Ludeon.RimWorld.Royalty,lee.theforce.standalone">guy762_statgene_force</li>
 			<!--li MayRequireAnyOf="VanillaExpanded.VPsycastsE,guy762.Lee.KotORPotF">guy762_statgene_force</li-->
 		</genes>
 	  </XenotypeDef>

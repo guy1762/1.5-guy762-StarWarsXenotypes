@@ -10,7 +10,7 @@
 	<packageId>guy762.StarWarsXenotypes</packageId>
 	<url>https://github.com/guy1762/guy762-StarWarsXenotypes</url>
 	
-	<description>Adds several alien races from Star Wars as xenotypes. DOWNLOAD THE FINAL 1.4 VERSION OF THIS MOD HERE: https://github.com/guy1762/SWKotOR-Project-1.4-Final-Build/</description>
+	<description>Adds several alien races from Star Wars as xenotypes.</description>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
@@ -26,11 +26,6 @@
 			<displayName>Integrated Genes</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2884115974</steamWorkshopUrl>
 		</li>
-		<!--li>
-			<packageId>Sov.Sith</packageId>
-			<displayName>Rimwars:Pureblood Xenotype</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?2885729184</steamWorkshopUrl>
-		</li-->
 	</modDependencies>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
@@ -45,6 +40,7 @@
 		<li>EBSG.Framework</li>
 		<li>Killathon.ArtificialBeings</li>
 		<li>Killathon.ArtificialBeings.SynCore</li>
+		<li>lee.theforce.standalone</li>
 		<li>VanillaExpanded.VPsycastsE</li>
 		<li>Sov.Sith</li>
 		<li>Sov.SandySandy</li>

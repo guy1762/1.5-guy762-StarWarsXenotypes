@@ -1,0 +1,1 @@
+NOTE TO SELF: this dll was updated by erdelf for some HAR compatibility thing. make sure Kaitorisenkou is aware of this when you get this updated to 1.7

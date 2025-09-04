@@ -134,7 +134,7 @@
 		<!-- <geneClass>BetterPrerequisites.PGene</geneClass> -->
 		<selectionWeight>0</selectionWeight>
 		 <modExtensions>   <!-- PATCHES FOR VPE and PotF REPLACE THIS ENTIRE NODE -->
-			<li Class="BigAndSmall.PawnExtension">
+			<li MayRequire="Ludeon.RimWorld.Royalty" Class="BigAndSmall.PawnExtension">
 				<applyPartHediff>
 					<li>
 						<hediff>PsychicAmplifier</hediff>
