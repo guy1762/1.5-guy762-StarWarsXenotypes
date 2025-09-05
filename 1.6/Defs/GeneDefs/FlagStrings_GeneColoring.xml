@@ -1,0 +1,17 @@
+<Defs>
+  <BigAndSmall.FlagStringData>
+    <defName>guy762_Spines</defName>
+    <label>spines</label>
+    <flags>
+      <guy762_Spines />
+    </flags>
+  </BigAndSmall.FlagStringData>
+
+  <BigAndSmall.FlagStringData>
+    <defName>guy762_Tusks</defName>
+    <label>tusks</label>
+    <flags>
+      <guy762_Tusks />
+    </flags>
+  </BigAndSmall.FlagStringData>
+</Defs>
